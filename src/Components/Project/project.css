@@ -41,7 +41,7 @@
 .proImg{
     height: 250px;
     width: 440px;
-    object-fit: cover;
+    object-fit: fill;
     border-radius: 5px;
     /* border: 2px solid rgb(122, 121, 119); */
 }
