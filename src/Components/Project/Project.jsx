@@ -58,7 +58,7 @@ const Project = () => {
             <img className='proImg' src={socialmedia} alt=''/>
             <div className='proText'>
                 <h2>Social Media</h2>
-                <p>Technologies: JavaScript, React.js, Node js, CSS, Multer, Base64, and others. Example (Email: epukhan00@gmail.com, password: 123456)</p>
+                <p>Technologies: JavaScript, React.js, Node js, CSS, Multer, Base64, and others. Example (Email: epukhan00@gmail.com, password: @Socialmedia420@)</p>
             </div>
             <div className='probuttom'>
                 <button className='buttonsare' onClick={()=> handleSocialMediaGit("https://github.com/Iftekhar-Uddin/Social-Media-Client.git")}>Github Link</button>
