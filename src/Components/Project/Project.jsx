@@ -62,7 +62,7 @@ const Project = () => {
             </div>
             <div className='probuttom'>
                 <button className='buttonsare' onClick={()=> handleSocialMediaGit("https://github.com/Iftekhar-Uddin/Social-Media-Client.git")}>Github Link</button>
-                <button className='buttonsare' onClick={()=> handleSocialMediaSite("https://social-media-client-msw1.onrender.com")}>Live Site</button>
+                <button className='buttonsare' onClick={()=> handleSocialMediaSite("https://social-media-client-pink-five.vercel.app")}>Live Site</button>
             </div>
         </div>
         <div className='projectsBar'>
