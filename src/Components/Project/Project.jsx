@@ -95,7 +95,7 @@ const Project = () => {
             </div>
             <div className='probuttom'>
                 <button className='buttonsare' onClick={()=> handleAdminPanelGit("https://github.com/Iftekhar-Uddin/job_application")}>Github Link</button>
-                <button className='buttonsare' onClick={()=> handleAdminPanelSite("https://job-application-beige-alpha.vercel.app")}>Live Site</button>
+                <button className='buttonsare' onClick={()=> handleAdminPanelSite("https://job-application-indol-iota.vercel.app")}>Live Site</button>
             </div>
         </div>
         <div className='projectsBar'>
